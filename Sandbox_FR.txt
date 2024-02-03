@@ -1,5 +1,5 @@
 Sandbox_FR = {
-    Sandbox_BuildingMenu_PertsPartyCategoryDivider = "_______________ Perts Party Specific Categories _______________",
+    Sandbox_BuildingMenu_PertsPartyCategoryDivider = "_______________ Catégories spécifiques Perts Party _______________",
     Sandbox_BuildingMenu_PertsPartyCategoryDivider_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
 
     Sandbox_BuildingMenu_pertsPartyChristmas = "Activer la catégorie Noël",
